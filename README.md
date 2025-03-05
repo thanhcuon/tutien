@@ -1,4 +1,14 @@
-# tutien mình sẽ cập nhật thêm chức năng sau này 
+# đây là plugin tutien mình sẽ cập nhật thêm chức năng sau này 
+command:
+/tutien linhkhi
+/tutien canhgioi
+/tutien give <player> <item> (linh thạch sẽ là (ha,trung,thuong))(đột phá đan sẽ là (dotphadan_ha,dotphadan_trung,dotphadan_thuong))
+/tutien tuluyen
+/tutien dotpha
+aliases: tt 
+Placeholder:
+%tutien_linhkhi%/%tutien_linhkhi_limit%(ví dụ bạn có 20 linh khí / 50 linh khí ạ)
+%tutien_canhgioi% - %tutien_tang% 
 
 
 https://github.com/user-attachments/assets/5efe04e9-9809-404d-a171-0a23c05ee415

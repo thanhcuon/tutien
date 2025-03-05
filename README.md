@@ -2,9 +2,19 @@
 command:
 /tutien linhkhi
 /tutien canhgioi
+
+
 /tutien give <player> <item> (linh thạch sẽ là (ha,trung,thuong))(đột phá đan sẽ là (dotphadan_ha,dotphadan_trung,dotphadan_thuong))
+
+
+
 /tutien tuluyen
+
+
+
 /tutien dotpha
+
+
 aliases: tt 
 Placeholder:
 %tutien_linhkhi%/%tutien_linhkhi_limit%(ví dụ bạn có 20 linh khí / 50 linh khí ạ)

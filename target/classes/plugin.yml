@@ -1,0 +1,10 @@
+name: TuTien
+version: '1.0-SNAPSHOT'
+main: org.github.tutien.TuTien
+api-version: '1.19'
+authors: [athanh]
+commands:
+  tutien:
+    description: Kiểm tra lượng linh khí của bạn
+    usage: "/tutien [linhkhi|tuluyen|give|dotpha|canhgioi]"
+    aliases: [ tt ]

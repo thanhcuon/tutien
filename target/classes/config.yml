@@ -1,0 +1,3 @@
+maxLinhKhi: 1000000  # Giới hạn linh khí tối đa
+linhKhiPerTick: 1 # Lượng linh khí tăng mỗi lần cập nhật
+tickInterval: 100  # Thời gian cập nhật (ticks, 200 ticks = 10 giây)
